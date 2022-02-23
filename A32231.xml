@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects, touching the causes &amp; reasons that moved him to dissolve the two last Parliaments</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32231</idno>
+            <idno type="STC">Wing C3000</idno>
+            <idno type="STC">ESTC R13996</idno>
+            <idno type="EEBO-CITATION">12937280</idno>
+            <idno type="OCLC">ocm 12937280</idno>
+            <idno type="VID">95800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects, touching the causes &amp; reasons that moved him to dissolve the two last Parliaments</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>10, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95800:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>His Majeſties DECLARATION <hi>To all His Loving Subjects,</hi> Touching The CAUSES &amp; REASONS <hi>That moved Him to Diſſolve</hi> The Two laſt PARLIAMENTS.</p>
+            <p>Publiſhed by His Majeſties Command.</p>
+            <figure>
+               <q>DIEV ET MON DROIT</q>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon as printer's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings moſt Excellent Majeſty. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:95800:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="3" facs="tcp:95800:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>His Majeſties DECLARATION <hi>To all His Loving Subjects,</hi> Touching The CAUSES &amp; REASONS <hi>That moved Him to Diſſolve</hi> The Two laſt PARLIAMENTS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T was with exceeding great trouble, that We were brought to the Diſſolving of the Two laſt Parliaments, without more benefit to Our People by the Calling of them: But having done Our part, in giving ſo ma<g ref="char:EOLhyphen"/>ny opportunities of providing for their Good, it cannot be juſtly imputed to Us, that the Succeſs hath not anſwered Our Expectation.</p>
+            <p>We cannot at this time but take notice of the particular Cauſes of Our Diſſatisfaction, which at the beginning of the laſt Parliament, We did re<g ref="char:EOLhyphen"/>commend to their care to avoid, and expected We ſhould have had no new Cauſe to remember them.</p>
+            <p>
+               <pb n="4" facs="tcp:95800:3"/>
+               <!-- PDF PAGE 15 -->
+We Open'd the laſt Parliament which was held at <hi>Weſtminſter,</hi> with as Gracious Expreſſions of Our readineſs to ſatisfie the Deſires of Our Good Sub<g ref="char:EOLhyphen"/>jects, and to ſecure them againſt all their juſt Fears, as the weighty Conſideration, either of preſerving the Eſtabliſh'd Religion, and the Liberty and Pro<g ref="char:EOLhyphen"/>perty of Our Subjects at home, or of Supporting Our Neighbours and Allyes abroad, could fill Our heart with, or poſſibly require from Us.</p>
+            <p>And We do ſolemnly Declare, That We did intend, as far as would have conſiſted with the ve<g ref="char:EOLhyphen"/>ry Being of the Government, to have Comply'd with any thing, that could have been propos'd to Us to accompliſh thoſe Ends.</p>
+            <p>We ask'd of them the Supporting the Alliances We had made for the preſervation of the General Peace in Chriſtendom; We recommended to them the further Examination of the Plot; We deſir'd their advice and aſſiſtance concerning the preſer<g ref="char:EOLhyphen"/>vation of <hi>Tanger;</hi> We offer'd to concur in any Re<g ref="char:EOLhyphen"/>medies that could be propoſed for the Security of the Proteſtant Religion, that might conſiſt with pre<g ref="char:EOLhyphen"/>ſerving the Succeſſion of the Crown, in its due and legal Courſe of Deſcent; to all which We met with moſt unſuitable Returns from the Houſe of Com<g ref="char:EOLhyphen"/>mons: Addreſſes, in the nature of Remonſtrances, rather than of Anſwers; Arbitrary Orders for ta<g ref="char:EOLhyphen"/>king Our Subjects into Cuſtody, for Matters that had no relation to Priviledges of Parliament; Strange illegal Votes, declaring divers eminent Perſons to be enemies to the King and Kingdom, without any Order or Proceſs of Law, any hearing of their Defence, or any Proof ſo much as offer'd againſt them.</p>
+            <p>
+               <pb n="5" facs="tcp:95800:3"/>
+               <!-- PDF PAGE 15 -->
+Beſides theſe Proceedings, they voted as follow<g ref="char:EOLhyphen"/>eth on the 7<hi rend="sup">th</hi> of <hi>January</hi> laſt;</p>
+            <p>Reſolved, <hi>That whoſoever ſhall Lend or cauſe to be Lent by way of Advance, any Money upon the Branches of the Kings Revenue, ariſing by Cuſtoms, Exciſe, or Hearth<g ref="char:EOLhyphen"/>money, ſhall be adjudged to hinder the Sitting of Parliaments, and ſhall be reſponſible for the ſame in Parliament.</hi>
+            </p>
+            <p>Reſolved, <hi>That whoſoever ſhall buy any Tally of An<g ref="char:EOLhyphen"/>ticipation upon any part of the King's Revenue, or who<g ref="char:EOLhyphen"/>ſoever ſhall pay any ſuch Tally hereafter to be ſtruck, ſhall be adjudged to hinder the Sitting of Parliaments, and ſhall be reſponſible for the ſame in Parliament.</hi>
+            </p>
+            <p>Which Votes, inſtead of giving Us Aſſiſtance to ſupport Our Allyes, or enable Us to preſerve <hi>Tan<g ref="char:EOLhyphen"/>ger,</hi> tended rather to diſable Us from Contributing towards either, by Our Own Revenue or Credit; not onely expoſing Us to all Dangers that might happen either at home, or abroad; but endea<g ref="char:EOLhyphen"/>vouring to deprive Us of the Poſſibility of Sup<g ref="char:EOLhyphen"/>porting the Government it ſelf, and to reduce Us to a more helpleſs Condition then the meaneſt of Our Subjects.</p>
+            <p>And on the 10<hi rend="sup">th</hi> of the ſame Month they paſt another Vote, in theſe words,</p>
+            <p>Reſolved, <hi>That it is the Opinion of this Houſe, That the Proſecution of Proteſtant Diſſenters upon the Penal Laws, is at this time grievous to the Subject, a weakening of the Proteſtant Intereſt, an Encouragement to Popery, and dangerous to the Peace of the Kingdom.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:95800:4"/>
+               <!-- PDF PAGE 16 -->
+By which Vote, without any regard to the Laws eſtabliſh'd, they aſſumed to themſelves a Power of Suſpending Acts of Parliament; whereas Our Judges and Miniſters of Juſtice nei<g ref="char:EOLhyphen"/>ther can, nor ought; in reverence to the Votes of either or both the Houſes, break the Oathes they have taken, for the due and impartial Execution of Our Laws; which by Experience have been found to be the beſt Support, both of the Prote<g ref="char:EOLhyphen"/>ſtant Intereſt, and of the Peace of the Kingdom.</p>
+            <p>Theſe were ſome of the unwarrantable Pro<g ref="char:EOLhyphen"/>ceedings of that Houſe of Commons, which were the occaſion of Our parting with that Parliament.</p>
+            <p>Which We had no ſooner Diſſolv'd, but We caus'd another to be forthwith Aſſembled at <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi> at the Opening of which, We thought it ne<g ref="char:EOLhyphen"/>ceſſary to give Them warning of the Errors of the former, in hopes to have prevented the like Miſ<g ref="char:EOLhyphen"/>carriages; and We requir'd of Them to make the Laws of the Land their Rule, as We did, and do reſolve, they ſhall be Ours: We further added, That what We had formerly and ſo often De<g ref="char:EOLhyphen"/>clared concerning the Succeſſion, We could not depart from: But to remove all reaſonable Fears that might ariſe from the Poſſibility of a Popiſh Succeſſor's coming to the Crown, if Means could be found, that in ſuch a Caſe, the Adminiſtration of the Government might remain in Proteſtant Hands, We were ready to hearken to any Expe<g ref="char:EOLhyphen"/>dient, by which the Religion Eſtabliſh'd might be Preſerv'd, and the Monarchy not Deſtroy'd.</p>
+            <p>But contrary to Our Offers and Expectation, We ſaw, that no Expedient would be enter<g ref="char:EOLhyphen"/>tain'd but that of a total Excluſion, which We
+<pb n="7" facs="tcp:95800:4"/>
+               <!-- PDF PAGE 16 -->had ſo often declar'd, was a Point, that in Our Own Royal Judgment, ſo nearly concern'd Us both in Honour, Juſtice, and Conſcience, that We could never conſent to it: In ſhort, We cannot, after the ſad Experience We have had of the late Civil Wars, that Murder'd Our Father of Bleſſed Memory, and ruin'd the Monarchy, conſent to a Law, that ſhall eſtabliſh another moſt Unnatural War, or at leaſt make it neceſſary to maintain a Standing Force for the Preſerving the Government and the Peace of the Kingdom.</p>
+            <p>And We have reaſon to believe, by what paſs'd in the laſt Parliament at <hi>Weſtminſter,</hi> that if We could have been brought to give Our Conſent to a Bill of Excluſion, the Intent was not to reſt there, but to paſs further, and to attempt ſome other Great and Important Changes even in Preſent.</p>
+            <p>The Buſineſs of <hi>Fitz-Harris,</hi> who was Impeach'd by the Houſe of Commons of High Treaſon, and by the Houſe of Lords referr'd to the ordinary Courſe of Law, was on the ſudden carried on to that extremity, by the Votes which the Commons paſs'd on the 26<hi rend="sup">th</hi> of <hi>March</hi> laſt, that there was no poſſibility left of a Reconciliation.</p>
+            <p>The Votes were theſe,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbati 26<hi rend="sup">o</hi> Martii, poſt Meridiem.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Reſolved,</hi> That it is the undoubted Right of the Com<g ref="char:EOLhyphen"/>mons in Parliament Aſſembled, to Impeach before the Lords in Parliament any Peer or Commoner, for Treaſon, or any other Crime or Miſdemeanor; and that the refuſal of the Lords to proceed in Parliament upon ſuch Impeach<g ref="char:EOLhyphen"/>ment, is a denial of Juſtice, and a violation of the Conſti<g ref="char:EOLhyphen"/>tution of Parliaments.</p>
+                        <p>
+                           <pb n="8" facs="tcp:95800:5"/>
+                           <!-- PDF PAGE 17 -->
+                           <hi>Reſolved,</hi> That in the caſe of <hi>Edward Fitz-Harris,</hi> who by the Commons hath been Impeach'd of High Treaſon before the Lords, with a Declaration, That in convenient time they would bring up the Articles against him for the Lords to Reſolve, That the ſaid <hi>Fitz-Harris</hi> ſhould be proceeded with according to the courſe of Common Law, and not by way of Impeachment at this time, is a Denial of Ju<g ref="char:EOLhyphen"/>ſtice, and a Violation of the Conſtitution of Parliaments, and an Obſtruction to the further Diſcovery of the Popiſh Plot, and of great danger to His Majeſties Perſon, and the Prote<g ref="char:EOLhyphen"/>ſtant Religion.</p>
+                        <p>
+                           <hi>Reſolved,</hi> That for any Inferiour Court to Proceed againſt <hi>Edward Fitz-Harris,</hi> or any other Perſon lying under an Impeachment in Parliament, for the ſame Crimes, for which he or they ſtand Impeach'd, is a high Breach of the Priviledge of Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>It was a Matter extremely ſenſible to Us, to find an Impeachment made uſe of to delay a Tryal, that We had directed againſt a profeſs'd Papiſt, charg'd with Treaſons againſt Us of an extraordi<g ref="char:EOLhyphen"/>nary Nature: And certainly the Houſe of Peers did themſelves Right in refuſing to give counte<g ref="char:EOLhyphen"/>nance to ſuch a Proceeding.</p>
+            <p>But when either of the Houſes are ſo far tran<g ref="char:EOLhyphen"/>ſported, as to Vote the Proceedings of the other to be a Denial of Juſtice, a Violation of the Conſtitu<g ref="char:EOLhyphen"/>tion of Parliaments, of Danger to Our Perſon and the Proteſtant Religon, without Conferences firſt had to examine upon what Grounds ſuch Proceed<g ref="char:EOLhyphen"/>ings were made, and how far they might be juſti<g ref="char:EOLhyphen"/>fied; This puts the two Houſes out of capacity of tranſacting buſineſs together, and conſequently is
+<pb n="9" facs="tcp:95800:5"/>
+               <!-- PDF PAGE 17 -->the greateſt Violation of the Conſtitution of Parlia<g ref="char:EOLhyphen"/>ments.</p>
+            <p>This was the Caſe, and every day's continuance being like to produce new Inſtances of further Heat and Anger between the two Houſes, to the diſappointment of all Publick Ends, for which they were Call'd, We found it neceſſary to put an end to this Parliament likewiſe.</p>
+            <p>But notwithſtanding all this, let not the reſtleſs Malice of ill Men, who are labouring to poyſon Our People, ſome out of fondneſs of their Old Beloved Commonwealth-Principles, and ſome out of anger at their being diſappointed in the particu<g ref="char:EOLhyphen"/>lar Deſigns they had for the accompliſhment of their own Ambition and Greatneſs, perſwade any of Our Good Subjects, that We intend to lay aſide the uſe of Parliaments: For We do ſtill Declare, That no Irregularities in Parliaments, ſhall ever make Us out of Love with Parliaments, which We look upon as the beſt Method for healing the Diſtempers of the Kingdom, and the onely Means to preſerve the Monarchy in that due Credit and Reſpect which it ought to have both at home and abroad.</p>
+            <p>And for this Cauſe We are Reſolved, by the Bleſſing of God, to have frequent Parliaments; and both in and out of Parliament, to uſe Our utmoſt Endeavours to extirpate Popery, and to Redreſs all the Grievances of Our good Subjects, and in all things to Govern according to the Laws of the Kingdom.</p>
+            <p>And We hope that a little time will ſo far open the Eyes of all Our good Subjects, that Our next
+<pb n="10" facs="tcp:95800:6"/>
+               <!-- PDF PAGE 18 -->meeting in Parliament, ſhall perfect all that Set<g ref="char:EOLhyphen"/>tlement and Peace which ſhall be found wanting either in Church or State.</p>
+            <p>To which, as We ſhall Contribute Our ut<g ref="char:EOLhyphen"/>moſt Endeavours, ſo We aſſure Our Self, That We ſhall be Aſſiſted therein by the Loyalty and good Affections of all thoſe who conſider the Riſe and Progreſs of the late Troubles and Confuſions, and deſire to preſerve their Countrey from a Relapſe.</p>
+            <p>And who cannot but remember, That Religion, Liberty and Property were all loſt and gone, when the Monarchy was ſhaken off, and could ne<g ref="char:EOLhyphen"/>ver be reviv'd till that was reſtored.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                  <date>the Eighth day of <hi>April</hi> 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:95800:6"/>
+            <!-- PDF PAGE 18 -->
+            <head>At the Court at <hi>Whitehall, April</hi> the Eighth, 1681.</head>
+            <p>IT is this day Ordered by His Majeſty in Council, That this Declaration be forthwith Printed and Publiſhed, and Read in all Churches and Chap<g ref="char:EOLhyphen"/>pels throughout this Kingdom.</p>
+            <closer>
+               <signed>Francis Gwyn.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
